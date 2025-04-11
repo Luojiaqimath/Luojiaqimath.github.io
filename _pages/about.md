@@ -15,7 +15,7 @@ I am currently an Assistant Professor of Mathematics at Soochow University. My r
 Education
 ------
 - Ph.D in Computational Mathematics, Advisor: 
-    [https://acam.ustc.edu.cn/2021/0706/c25555a516258/page.htm]{Zhouwang Yang}\\
+    [Zhouwang Yang]{http://staff.ustc.edu.cn/~yangzw/}\\
     Soochow University, 2015-2020
 - B.S. in Mathematics, \\
     Soochow University, 2011-2015
