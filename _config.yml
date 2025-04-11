@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiaqi Luo / Homepage"
+title                    : "Jiaqi Luo/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiaqi Luo"
 description              : &description "Assistant Professor at Soochow University"
@@ -23,7 +23,7 @@ repository               : "https://github.com/Luojiaqimath/Luojiaqimath.github.
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jiaqi Luo"
+  name             : "Jiaqi Luo (骆佳琦)"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : "Suzhou, China"
