@@ -24,7 +24,7 @@ Positions
 ------
 - 2025.2 - , Assistant Professor   
     School of Mathematical Sciences, Soochow University
-- 2023.11 - 2024.11, Postdoctoral Fellowship, Advisor: [Huaxiong Huang](https://www.yorku.ca/science/profiles/faculty/huaxiong-huang/), [Arvind Gupta](https://www.madslab.ca/author/arvind-gupta/)   
+- 2023.11 - 2024.11, Postdoctoral Fellowship, Advisor: [Huaxiong Huang](https://www.yorku.ca/science/profiles/faculty/huaxiong-huang/) \& [Arvind Gupta](https://www.madslab.ca/author/arvind-gupta/)   
     The Fields Institute for Research in Mathematical Sciences  
 - 2020.7-2023.10, Research Scientist,  Advisor: [Shixin Xu](https://sites.google.com/site/shixinxupage/)   
     Data Science Research Center, Duke Kunshan University
