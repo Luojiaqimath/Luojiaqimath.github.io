@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +15,7 @@ I am currently an Assistant Professor of Mathematics at Soochow University. My r
 Education
 ------
 - Ph.D in Computational Mathematics, Advisor: 
-    \href{https://acam.ustc.edu.cn/2021/0706/c25555a516258/page.htm}{Zhouwang Yang}\\
+    [Zhouwang Yang]{https://acam.ustc.edu.cn/2021/0706/c25555a516258/page.htm}\\
     Soochow University, 2015-2020
 - B.S. in Mathematics, \\
     Soochow University, 2011-2015
@@ -23,7 +24,7 @@ Positions
 ------
 - 2025.2 - present, Assistant Professor\\
     School of Mathematical Sciences, Soochow University
-- 2023.11 - 2024.11, Postdoctoral Fellowship, Advisor: \href{https://www.yorku.ca/science/profiles/faculty/huaxiong-huang/}{Huaxiong Huang}, \href{https://www.madslab.ca/author/arvind-gupta/}{Arvind Gupta}\\
+- 2023.11 - 2024.11, Postdoctoral Fellowship, Advisor: [Huaxiong Huang]{https://www.yorku.ca/science/profiles/faculty/huaxiong-huang/}, [Arvind Gupta]{https://www.madslab.ca/author/arvind-gupta/}\\
     The Fields Institute for Research in Mathematical Sciences
-- 2020.7-2023.10, Research Scientist,  Advisor: \href{https://sites.google.com/site/shixinxupage/}{Shixin Xu}\\
+- 2020.7-2023.10, Research Scientist,  Advisor: [Shixin Xu]{https://sites.google.com/site/shixinxupage/}\\
     Data Science Research Center, Duke Kunshan University
