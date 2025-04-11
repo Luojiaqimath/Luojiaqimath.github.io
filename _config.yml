@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiaqi Luo/Personal Homepage"
+title                    : "Jiaqi Luo's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiaqi Luo"
 description              : &description "Assistant Professor at Soochow University"
