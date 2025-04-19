@@ -28,7 +28,7 @@ author:
   bio              : "Assistant Professor"
   location         : "Suzhou, China"
   employer         : "Soochow University"
-  uri              : "https://luojiaqimath.github.io/"
+  uri              : # "https://luojiaqimath.github.io/"
   email            : "jqluo@suda.edu.cn" 
 
   # Academic websites
