@@ -12,6 +12,12 @@ redirect_from:
 I am currently an Assistant Professor of Mathematics at Soochow University. My research focuses on using nonlinear optimization techniques and machine learning methods to develop simple, user-friendly, and computationally efficient models and algorithms that can tackle complex real-world problems in industry, healthcare, and science. By combining insights from mathematics, computer science, and domain knowledge, I aim to create innovative solutions that practitioners can readily adopt and implement.
 
 
+Recent News
+------
+New paper on *Journal of Computation Physics*: [An imbalanced learning-based sampling method for physics-informed neural networks](https://doi.org/10.1016/j.jcp.2025.114010)
+
+
+
 Education
 ------
 - Ph.D in Computational Mathematics, Advisor: 
